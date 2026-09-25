@@ -1,0 +1,7 @@
+{
+  "name": "VIN Wheeler - Instant Vehicle History Report & VIN Check",
+  "description": "Full vehicle instant transparency with official federal NMVTIS and NHTSA records. Check any 17-digit VIN or license plate with secure Stripe and PayPal checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
